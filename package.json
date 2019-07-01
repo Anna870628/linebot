@@ -1,16 +1,16 @@
 {
-"name":"e-manner",
-"version":"1.0.0",
-"description":"",
-"main":"app.js",
-"scripts":{
-"start":"node app.js"
-},
-"author":"",
-"dependencies":{
-  "express":"^4.16.3",
-  "http":"0.0.0",
-  "body-parser":"latest"
-}
-
+  "name": "e-manner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
 }

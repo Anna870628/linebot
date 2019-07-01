@@ -21,4 +21,4 @@ app.post("/",function(req,res)
 console.log("get line message!");
 var result=req.body.events;
 console.log(JSON.stringify(result));
-}
+});
